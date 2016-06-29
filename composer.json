@@ -1,0 +1,15 @@
+{
+    "name": "philiptang/ipaynow-demo",
+    "description": "现在支付 DEMO PHP 版",
+    "require": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "philip",
+            "email": "deng4zhi4jie2@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,12 @@
+<phpunit>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">./src</directory>
+        </whitelist>
+    </filter>
+    <testsuites>
+        <testsuite name="FunctionTest">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
